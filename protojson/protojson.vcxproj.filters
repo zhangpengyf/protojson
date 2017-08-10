@@ -36,6 +36,9 @@
     <ClCompile Include="sample.pb.cc">
       <Filter>Source Files\proto</Filter>
     </ClCompile>
+    <ClCompile Include="protojson.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="sample.pb.h">
@@ -46,6 +49,9 @@
     </ClInclude>
     <ClInclude Include="jsoncpp\src\lib_json\json_batchallocator.h">
       <Filter>Source Files\jsoncpp</Filter>
+    </ClInclude>
+    <ClInclude Include="protojson.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

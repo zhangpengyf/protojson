@@ -87,11 +87,13 @@
     <ClCompile Include="jsoncpp\src\lib_json\json_value.cpp" />
     <ClCompile Include="jsoncpp\src\lib_json\json_writer.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="protojson.cpp" />
     <ClCompile Include="sample.pb.cc" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="jsoncpp\src\lib_json\json_batchallocator.h" />
     <ClInclude Include="jsoncpp\src\lib_json\json_tool.h" />
+    <ClInclude Include="protojson.h" />
     <ClInclude Include="sample.pb.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
