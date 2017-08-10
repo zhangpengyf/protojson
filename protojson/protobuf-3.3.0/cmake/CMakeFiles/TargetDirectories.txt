@@ -1,0 +1,15 @@
+C:/Users/b/Desktop/code/protojson/protojson/protobuf-3.3.0/cmake/CMakeFiles/libprotobuf-lite.dir
+C:/Users/b/Desktop/code/protojson/protojson/protobuf-3.3.0/cmake/CMakeFiles/protoc.dir
+C:/Users/b/Desktop/code/protojson/protojson/protobuf-3.3.0/cmake/CMakeFiles/libprotoc.dir
+C:/Users/b/Desktop/code/protojson/protojson/protobuf-3.3.0/cmake/CMakeFiles/libprotobuf.dir
+C:/Users/b/Desktop/code/protojson/protojson/protobuf-3.3.0/cmake/CMakeFiles/gmock_main.dir
+C:/Users/b/Desktop/code/protojson/protojson/protobuf-3.3.0/cmake/CMakeFiles/gmock.dir
+C:/Users/b/Desktop/code/protojson/protojson/protobuf-3.3.0/cmake/CMakeFiles/js_embed.dir
+C:/Users/b/Desktop/code/protojson/protojson/protobuf-3.3.0/cmake/CMakeFiles/tests.dir
+C:/Users/b/Desktop/code/protojson/protojson/protobuf-3.3.0/cmake/CMakeFiles/test_plugin.dir
+C:/Users/b/Desktop/code/protojson/protojson/protobuf-3.3.0/cmake/CMakeFiles/lite-test.dir
+C:/Users/b/Desktop/code/protojson/protojson/protobuf-3.3.0/cmake/CMakeFiles/lite-arena-test.dir
+C:/Users/b/Desktop/code/protojson/protojson/protobuf-3.3.0/cmake/CMakeFiles/check.dir
+C:/Users/b/Desktop/code/protojson/protojson/protobuf-3.3.0/cmake/CMakeFiles/INSTALL.dir
+C:/Users/b/Desktop/code/protojson/protojson/protobuf-3.3.0/cmake/CMakeFiles/ALL_BUILD.dir
+C:/Users/b/Desktop/code/protojson/protojson/protobuf-3.3.0/cmake/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\src\google\protobuf\lite_unittest.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\src\google\protobuf\arena_test_util.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\src\google\protobuf\map_lite_test_util.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\src\google\protobuf\test_util_lite.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\src\google\protobuf\map_lite_unittest.pb.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\src\google\protobuf\unittest_import_lite.pb.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\src\google\protobuf\unittest_import_public_lite.pb.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\src\google\protobuf\unittest_lite.pb.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\src\google\protobuf\unittest_no_arena_lite.pb.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\cmake\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\cmake\CMakeFiles\92f004fecc55edbcc33b151124fdba42\map_lite_unittest.pb.cc.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\cmake\CMakeFiles\92f004fecc55edbcc33b151124fdba42\unittest_import_lite.pb.cc.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\cmake\CMakeFiles\92f004fecc55edbcc33b151124fdba42\unittest_import_public_lite.pb.cc.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\cmake\CMakeFiles\92f004fecc55edbcc33b151124fdba42\unittest_lite.pb.cc.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\cmake\CMakeFiles\92f004fecc55edbcc33b151124fdba42\unittest_no_arena_lite.pb.cc.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{315FD174-501C-3894-90C8-CBE0E4154542}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2EA016B2-9DF4-3DF3-8834-A968392651BB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

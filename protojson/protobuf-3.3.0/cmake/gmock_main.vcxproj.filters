@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\gmock\src\gmock_main.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\cmake\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{315FD174-501C-3894-90C8-CBE0E4154542}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

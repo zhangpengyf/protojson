@@ -1,0 +1,108 @@
+﻿Build started 8/10/2017 4:07:55 PM.
+     1>Project "C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\cmake\libprotoc.vcxproj" on node 2 (Build target(s)).
+     1>CustomBuild:
+         Generating C:/Users/b/Desktop/code/protojson/protojson/protobuf-3.3.0/src/google/protobuf/compiler/js/well_known_types_embed.cc
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\cmake" /I"C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\src" /I"C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\gmock" /I"C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\gmock\gtest" /I"C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\gmock\gtest\include" /I"C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\gmock\include" /Zi /nologo /W3 /WX- /MP /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D LIBPROTOC_EXPORTS /D GOOGLE_PROTOBUF_CMAKE_BUILD /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"libprotoc.dir\Debug\\" /Fd"libprotoc.dir\Debug\vc120.pdb" /Gd /TP /wd4244 /wd4267 /wd4018 /wd4355 /wd4800 /wd4251 /wd4996 /wd4146 /wd4305 /wd4309 /analyze- /errorReport:prompt  /bigobj "C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\src\google\protobuf\compiler\js\well_known_types_embed.cc"
+         well_known_types_embed.cc
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\cmake\Debug\libprotocd.lib" /NOLOGO  /machine:X86 libprotoc.dir\Debug\code_generator.obj
+         libprotoc.dir\Debug\command_line_interface.obj
+         libprotoc.dir\Debug\cpp_enum.obj
+         libprotoc.dir\Debug\cpp_enum_field.obj
+         libprotoc.dir\Debug\cpp_extension.obj
+         libprotoc.dir\Debug\cpp_field.obj
+         libprotoc.dir\Debug\cpp_file.obj
+         libprotoc.dir\Debug\cpp_generator.obj
+         libprotoc.dir\Debug\cpp_helpers.obj
+         libprotoc.dir\Debug\cpp_map_field.obj
+         libprotoc.dir\Debug\cpp_message.obj
+         libprotoc.dir\Debug\cpp_message_field.obj
+         libprotoc.dir\Debug\cpp_primitive_field.obj
+         libprotoc.dir\Debug\cpp_service.obj
+         libprotoc.dir\Debug\cpp_string_field.obj
+         libprotoc.dir\Debug\csharp_doc_comment.obj
+         libprotoc.dir\Debug\csharp_enum.obj
+         libprotoc.dir\Debug\csharp_enum_field.obj
+         libprotoc.dir\Debug\csharp_field_base.obj
+         libprotoc.dir\Debug\csharp_generator.obj
+         libprotoc.dir\Debug\csharp_helpers.obj
+         libprotoc.dir\Debug\csharp_map_field.obj
+         libprotoc.dir\Debug\csharp_message.obj
+         libprotoc.dir\Debug\csharp_message_field.obj
+         libprotoc.dir\Debug\csharp_primitive_field.obj
+         libprotoc.dir\Debug\csharp_reflection_class.obj
+         libprotoc.dir\Debug\csharp_repeated_enum_field.obj
+         libprotoc.dir\Debug\csharp_repeated_message_field.obj
+         libprotoc.dir\Debug\csharp_repeated_primitive_field.obj
+         libprotoc.dir\Debug\csharp_source_generator_base.obj
+         libprotoc.dir\Debug\csharp_wrapper_field.obj
+         libprotoc.dir\Debug\java_context.obj
+         libprotoc.dir\Debug\java_doc_comment.obj
+         libprotoc.dir\Debug\java_enum.obj
+         libprotoc.dir\Debug\java_enum_field.obj
+         libprotoc.dir\Debug\java_enum_field_lite.obj
+         libprotoc.dir\Debug\java_enum_lite.obj
+         libprotoc.dir\Debug\java_extension.obj
+         libprotoc.dir\Debug\java_extension_lite.obj
+         libprotoc.dir\Debug\java_field.obj
+         libprotoc.dir\Debug\java_file.obj
+         libprotoc.dir\Debug\java_generator.obj
+         libprotoc.dir\Debug\java_generator_factory.obj
+         libprotoc.dir\Debug\java_helpers.obj
+         libprotoc.dir\Debug\java_lazy_message_field.obj
+         libprotoc.dir\Debug\java_lazy_message_field_lite.obj
+         libprotoc.dir\Debug\java_map_field.obj
+         libprotoc.dir\Debug\java_map_field_lite.obj
+         libprotoc.dir\Debug\java_message.obj
+         libprotoc.dir\Debug\java_message_builder.obj
+         libprotoc.dir\Debug\java_message_builder_lite.obj
+         libprotoc.dir\Debug\java_message_field.obj
+         libprotoc.dir\Debug\java_message_field_lite.obj
+         libprotoc.dir\Debug\java_message_lite.obj
+         libprotoc.dir\Debug\java_name_resolver.obj
+         libprotoc.dir\Debug\java_primitive_field.obj
+         libprotoc.dir\Debug\java_primitive_field_lite.obj
+         libprotoc.dir\Debug\java_service.obj
+         libprotoc.dir\Debug\java_shared_code_generator.obj
+         libprotoc.dir\Debug\java_string_field.obj
+         libprotoc.dir\Debug\java_string_field_lite.obj
+         libprotoc.dir\Debug\javanano_enum.obj
+         libprotoc.dir\Debug\javanano_enum_field.obj
+         libprotoc.dir\Debug\javanano_extension.obj
+         libprotoc.dir\Debug\javanano_field.obj
+         libprotoc.dir\Debug\javanano_file.obj
+         libprotoc.dir\Debug\javanano_generator.obj
+         libprotoc.dir\Debug\javanano_helpers.obj
+         libprotoc.dir\Debug\javanano_map_field.obj
+         libprotoc.dir\Debug\javanano_message.obj
+         libprotoc.dir\Debug\javanano_message_field.obj
+         libprotoc.dir\Debug\javanano_primitive_field.obj
+         libprotoc.dir\Debug\js_generator.obj
+         libprotoc.dir\Debug\well_known_types_embed.obj
+         libprotoc.dir\Debug\objectivec_enum.obj
+         libprotoc.dir\Debug\objectivec_enum_field.obj
+         libprotoc.dir\Debug\objectivec_extension.obj
+         libprotoc.dir\Debug\objectivec_field.obj
+         libprotoc.dir\Debug\objectivec_file.obj
+         libprotoc.dir\Debug\objectivec_generator.obj
+         libprotoc.dir\Debug\objectivec_helpers.obj
+         libprotoc.dir\Debug\objectivec_map_field.obj
+         libprotoc.dir\Debug\objectivec_message.obj
+         libprotoc.dir\Debug\objectivec_message_field.obj
+         libprotoc.dir\Debug\objectivec_oneof.obj
+         libprotoc.dir\Debug\objectivec_primitive_field.obj
+         libprotoc.dir\Debug\php_generator.obj
+         libprotoc.dir\Debug\plugin.obj
+         libprotoc.dir\Debug\plugin.pb.obj
+         libprotoc.dir\Debug\profile.pb.obj
+         libprotoc.dir\Debug\python_generator.obj
+         libprotoc.dir\Debug\ruby_generator.obj
+         libprotoc.dir\Debug\subprocess.obj
+         libprotoc.dir\Debug\zip_writer.obj
+         libprotoc.vcxproj -> C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\cmake\Debug\libprotocd.lib
+     1>Done Building Project "C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\cmake\libprotoc.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.62

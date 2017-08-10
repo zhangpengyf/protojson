@@ -1,0 +1,10 @@
+﻿Build started 8/10/2017 4:07:55 PM.
+     1>Project "C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\cmake\js_embed.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\cmake\Debug\js_embed.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/b/Desktop/code/protojson/protojson/protobuf-3.3.0/cmake/Debug/js_embed.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/b/Desktop/code/protojson/protojson/protobuf-3.3.0/cmake/Debug/js_embed.lib" /MACHINE:X86 /SAFESEH  /machine:X86 js_embed.dir\Debug\embed.obj
+         js_embed.vcxproj -> C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\cmake\Debug\js_embed.exe
+     1>Done Building Project "C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\cmake\js_embed.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.11

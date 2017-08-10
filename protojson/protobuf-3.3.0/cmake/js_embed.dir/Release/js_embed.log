@@ -1,0 +1,9 @@
+﻿Build started 8/10/2017 4:08:03 PM.
+     1>Project "C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\cmake\js_embed.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         js_embed.vcxproj -> C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\cmake\Release\js_embed.exe
+     1>Done Building Project "C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\cmake\js_embed.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.06

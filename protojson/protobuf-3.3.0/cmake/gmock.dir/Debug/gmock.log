@@ -1,0 +1,18 @@
+﻿Build started 8/10/2017 4:01:50 PM.
+     1>Project "C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\cmake\gmock.vcxproj" on node 4 (Rebuild target(s)).
+     1>CustomBuild:
+         Building Custom Rule C:/Users/b/Desktop/code/protobuf-3.3.0/cmake/CMakeLists.txt
+         CMake does not need to re-run because C:/Users/b/Desktop/code/protobuf-3.3.0/cmake/CMakeFiles/generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\b\Desktop\code\protobuf-3.3.0\cmake" /I"C:\Users\b\Desktop\code\protobuf-3.3.0\src" /I"C:\Users\b\Desktop\code\protobuf-3.3.0\gmock" /I"C:\Users\b\Desktop\code\protobuf-3.3.0\gmock\gtest" /I"C:\Users\b\Desktop\code\protobuf-3.3.0\gmock\gtest\include" /I"C:\Users\b\Desktop\code\protobuf-3.3.0\gmock\include" /Zi /nologo /W3 /WX- /MP /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D GOOGLE_PROTOBUF_CMAKE_BUILD /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"gmock.dir\Debug\\" /Fd"gmock.dir\Debug\vc120.pdb" /Gd /TP /wd4244 /wd4267 /wd4018 /wd4355 /wd4800 /wd4251 /wd4996 /wd4146 /wd4305 /wd4309 /analyze- /errorReport:prompt  /bigobj "C:\Users\b\Desktop\code\protobuf-3.3.0\gmock\src\gmock-all.cc" "C:\Users\b\Desktop\code\protobuf-3.3.0\gmock\gtest\src\gtest-all.cc"
+         gmock-all.cc
+         gtest-all.cc
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\b\Desktop\code\protobuf-3.3.0\cmake\Debug\gmock.lib" /NOLOGO  /machine:X86 "gmock.dir\Debug\gmock-all.obj"
+         "gmock.dir\Debug\gtest-all.obj"
+         gmock.vcxproj -> C:\Users\b\Desktop\code\protobuf-3.3.0\cmake\Debug\gmock.lib
+     1>Done Building Project "C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\cmake\gmock.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.59

@@ -1,0 +1,14 @@
+﻿Build started 8/10/2017 4:02:10 PM.
+     1>Project "C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\cmake\lite-arena-test.vcxproj" on node 4 (Rebuild target(s)).
+     1>CustomBuild:
+         Building Custom Rule C:/Users/b/Desktop/code/protobuf-3.3.0/cmake/CMakeLists.txt
+         CMake does not need to re-run because C:/Users/b/Desktop/code/protobuf-3.3.0/cmake/CMakeFiles/generate.stamp is up-to-date.
+         Generating C:/Users/b/Desktop/code/protobuf-3.3.0/src/google/protobuf/map_lite_unittest.pb.cc
+         'Debug\protoc.exe' is not recognized as an internal or external command,
+         operable program or batch file.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppCommon.targets(170,5): error MSB6006: "cmd.exe" exited with code 9009.
+     1>Done Building Project "C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\cmake\lite-arena-test.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.22

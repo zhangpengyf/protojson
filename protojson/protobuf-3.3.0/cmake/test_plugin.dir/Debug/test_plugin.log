@@ -1,0 +1,20 @@
+﻿Build started 8/10/2017 4:02:08 PM.
+     1>Project "C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\cmake\test_plugin.vcxproj" on node 2 (Rebuild target(s)).
+     1>CustomBuild:
+         Building Custom Rule C:/Users/b/Desktop/code/protobuf-3.3.0/cmake/CMakeLists.txt
+         CMake does not need to re-run because C:/Users/b/Desktop/code/protobuf-3.3.0/cmake/CMakeFiles/generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\b\Desktop\code\protobuf-3.3.0\cmake" /I"C:\Users\b\Desktop\code\protobuf-3.3.0\src" /I"C:\Users\b\Desktop\code\protobuf-3.3.0\gmock" /I"C:\Users\b\Desktop\code\protobuf-3.3.0\gmock\gtest" /I"C:\Users\b\Desktop\code\protobuf-3.3.0\gmock\gtest\include" /I"C:\Users\b\Desktop\code\protobuf-3.3.0\gmock\include" /Zi /nologo /W3 /WX- /MP /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "GOOGLE_PROTOBUF_TEST_PLUGIN_PATH=\"C:/Users/b/Desktop/code/protobuf-3.3.0/cmake/Debug/test_plugin.exe\"" /D GOOGLE_PROTOBUF_CMAKE_BUILD /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"test_plugin.dir\Debug\\" /Fd"test_plugin.dir\Debug\vc120.pdb" /Gd /TP /wd4244 /wd4267 /wd4018 /wd4355 /wd4800 /wd4251 /wd4996 /wd4146 /wd4305 /wd4309 /analyze- /errorReport:prompt  /bigobj "C:\Users\b\Desktop\code\protobuf-3.3.0\src\google\protobuf\compiler\mock_code_generator.cc" "C:\Users\b\Desktop\code\protobuf-3.3.0\src\google\protobuf\testing\file.cc" "C:\Users\b\Desktop\code\protobuf-3.3.0\src\google\protobuf\compiler\test_plugin.cc"
+         mock_code_generator.cc
+         file.cc
+         test_plugin.cc
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\b\Desktop\code\protobuf-3.3.0\cmake\Debug\test_plugin.exe" /INCREMENTAL /NOLOGO Debug\libprotocd.lib Debug\libprotobufd.lib Debug\gmock.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/b/Desktop/code/protobuf-3.3.0/cmake/Debug/test_plugin.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/b/Desktop/code/protobuf-3.3.0/cmake/Debug/test_plugin.lib" /MACHINE:X86 /SAFESEH  /machine:X86 test_plugin.dir\Debug\mock_code_generator.obj
+         test_plugin.dir\Debug\file.obj
+         test_plugin.dir\Debug\test_plugin.obj
+     1>LINK : fatal error LNK1104: cannot open file 'Debug\libprotocd.lib'
+     1>Done Building Project "C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\cmake\test_plugin.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.39

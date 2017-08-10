@@ -1,0 +1,7 @@
+/Debug
+/protojson.opensdf
+/*.sdf
+/protojson/Debug/*.obj
+/protojson/Debug
+*.obj
+/protojson/protobuf-3.3.0/cmake/*.opensdf

@@ -1,0 +1,106 @@
+﻿Build started 8/10/2017 4:08:03 PM.
+     1>Project "C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\cmake\libprotoc.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\cmake" /I"C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\src" /I"C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\gmock" /I"C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\gmock\gtest" /I"C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\gmock\gtest\include" /I"C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\gmock\include" /nologo /W3 /WX- /MP /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D LIBPROTOC_EXPORTS /D GOOGLE_PROTOBUF_CMAKE_BUILD /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /EHsc /MT /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"libprotoc.dir\Release\\" /Fd"libprotoc.dir\Release\vc120.pdb" /Gd /TP /wd4244 /wd4267 /wd4018 /wd4355 /wd4800 /wd4251 /wd4996 /wd4146 /wd4305 /wd4309 /analyze- /errorReport:prompt  /bigobj "C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\src\google\protobuf\compiler\js\well_known_types_embed.cc"
+         well_known_types_embed.cc
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\cmake\Release\libprotoc.lib" /NOLOGO  /machine:X86 libprotoc.dir\Release\code_generator.obj
+         libprotoc.dir\Release\command_line_interface.obj
+         libprotoc.dir\Release\cpp_enum.obj
+         libprotoc.dir\Release\cpp_enum_field.obj
+         libprotoc.dir\Release\cpp_extension.obj
+         libprotoc.dir\Release\cpp_field.obj
+         libprotoc.dir\Release\cpp_file.obj
+         libprotoc.dir\Release\cpp_generator.obj
+         libprotoc.dir\Release\cpp_helpers.obj
+         libprotoc.dir\Release\cpp_map_field.obj
+         libprotoc.dir\Release\cpp_message.obj
+         libprotoc.dir\Release\cpp_message_field.obj
+         libprotoc.dir\Release\cpp_primitive_field.obj
+         libprotoc.dir\Release\cpp_service.obj
+         libprotoc.dir\Release\cpp_string_field.obj
+         libprotoc.dir\Release\csharp_doc_comment.obj
+         libprotoc.dir\Release\csharp_enum.obj
+         libprotoc.dir\Release\csharp_enum_field.obj
+         libprotoc.dir\Release\csharp_field_base.obj
+         libprotoc.dir\Release\csharp_generator.obj
+         libprotoc.dir\Release\csharp_helpers.obj
+         libprotoc.dir\Release\csharp_map_field.obj
+         libprotoc.dir\Release\csharp_message.obj
+         libprotoc.dir\Release\csharp_message_field.obj
+         libprotoc.dir\Release\csharp_primitive_field.obj
+         libprotoc.dir\Release\csharp_reflection_class.obj
+         libprotoc.dir\Release\csharp_repeated_enum_field.obj
+         libprotoc.dir\Release\csharp_repeated_message_field.obj
+         libprotoc.dir\Release\csharp_repeated_primitive_field.obj
+         libprotoc.dir\Release\csharp_source_generator_base.obj
+         libprotoc.dir\Release\csharp_wrapper_field.obj
+         libprotoc.dir\Release\java_context.obj
+         libprotoc.dir\Release\java_doc_comment.obj
+         libprotoc.dir\Release\java_enum.obj
+         libprotoc.dir\Release\java_enum_field.obj
+         libprotoc.dir\Release\java_enum_field_lite.obj
+         libprotoc.dir\Release\java_enum_lite.obj
+         libprotoc.dir\Release\java_extension.obj
+         libprotoc.dir\Release\java_extension_lite.obj
+         libprotoc.dir\Release\java_field.obj
+         libprotoc.dir\Release\java_file.obj
+         libprotoc.dir\Release\java_generator.obj
+         libprotoc.dir\Release\java_generator_factory.obj
+         libprotoc.dir\Release\java_helpers.obj
+         libprotoc.dir\Release\java_lazy_message_field.obj
+         libprotoc.dir\Release\java_lazy_message_field_lite.obj
+         libprotoc.dir\Release\java_map_field.obj
+         libprotoc.dir\Release\java_map_field_lite.obj
+         libprotoc.dir\Release\java_message.obj
+         libprotoc.dir\Release\java_message_builder.obj
+         libprotoc.dir\Release\java_message_builder_lite.obj
+         libprotoc.dir\Release\java_message_field.obj
+         libprotoc.dir\Release\java_message_field_lite.obj
+         libprotoc.dir\Release\java_message_lite.obj
+         libprotoc.dir\Release\java_name_resolver.obj
+         libprotoc.dir\Release\java_primitive_field.obj
+         libprotoc.dir\Release\java_primitive_field_lite.obj
+         libprotoc.dir\Release\java_service.obj
+         libprotoc.dir\Release\java_shared_code_generator.obj
+         libprotoc.dir\Release\java_string_field.obj
+         libprotoc.dir\Release\java_string_field_lite.obj
+         libprotoc.dir\Release\javanano_enum.obj
+         libprotoc.dir\Release\javanano_enum_field.obj
+         libprotoc.dir\Release\javanano_extension.obj
+         libprotoc.dir\Release\javanano_field.obj
+         libprotoc.dir\Release\javanano_file.obj
+         libprotoc.dir\Release\javanano_generator.obj
+         libprotoc.dir\Release\javanano_helpers.obj
+         libprotoc.dir\Release\javanano_map_field.obj
+         libprotoc.dir\Release\javanano_message.obj
+         libprotoc.dir\Release\javanano_message_field.obj
+         libprotoc.dir\Release\javanano_primitive_field.obj
+         libprotoc.dir\Release\js_generator.obj
+         libprotoc.dir\Release\well_known_types_embed.obj
+         libprotoc.dir\Release\objectivec_enum.obj
+         libprotoc.dir\Release\objectivec_enum_field.obj
+         libprotoc.dir\Release\objectivec_extension.obj
+         libprotoc.dir\Release\objectivec_field.obj
+         libprotoc.dir\Release\objectivec_file.obj
+         libprotoc.dir\Release\objectivec_generator.obj
+         libprotoc.dir\Release\objectivec_helpers.obj
+         libprotoc.dir\Release\objectivec_map_field.obj
+         libprotoc.dir\Release\objectivec_message.obj
+         libprotoc.dir\Release\objectivec_message_field.obj
+         libprotoc.dir\Release\objectivec_oneof.obj
+         libprotoc.dir\Release\objectivec_primitive_field.obj
+         libprotoc.dir\Release\php_generator.obj
+         libprotoc.dir\Release\plugin.obj
+         libprotoc.dir\Release\plugin.pb.obj
+         libprotoc.dir\Release\profile.pb.obj
+         libprotoc.dir\Release\python_generator.obj
+         libprotoc.dir\Release\ruby_generator.obj
+         libprotoc.dir\Release\subprocess.obj
+         libprotoc.dir\Release\zip_writer.obj
+         libprotoc.vcxproj -> C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\cmake\Release\libprotoc.lib
+     1>Done Building Project "C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\cmake\libprotoc.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.50

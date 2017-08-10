@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\src\google\protobuf\compiler\mock_code_generator.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\src\google\protobuf\testing\file.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\src\google\protobuf\compiler\test_plugin.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\src\google\protobuf\testing\file.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\b\Desktop\code\protojson\protojson\protobuf-3.3.0\cmake\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{315FD174-501C-3894-90C8-CBE0E4154542}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{1DDA9C9C-8C26-350D-9E4B-9E87EE5E1D7C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
