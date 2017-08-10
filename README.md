@@ -1,2 +1,2 @@
-# protobuf2json
+# protojson
 Decode protobuf to json format
